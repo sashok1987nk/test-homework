@@ -145,6 +145,18 @@ body {
   }
 }
 /*********@media screen and (min-width: 1158px)*****/
-@media screen and (min-width: 1158px) {
-  
+@media screen and (min-width: 1440px) {
+  .container-our-mentors {
+    max-width: 1440px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .ul-our-mentors {
+    padding-left: 103px;
+    padding-right: 103px;
+    gap: 100px;
+    flex-wrap: nowrap;
+  }
 }
